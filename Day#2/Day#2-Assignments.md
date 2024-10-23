@@ -69,7 +69,8 @@
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/756f7290-d5ff-4dee-85f6-3d41a5f33f03)
+https://github.com/A6isheak/22AM0XE-Assignments/wiki
 
 ***
 
