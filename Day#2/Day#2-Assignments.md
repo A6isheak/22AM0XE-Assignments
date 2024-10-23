@@ -75,6 +75,7 @@ https://github.com/A6isheak/22AM0XE-Assignments/wiki
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/d163f0c8-2b72-4136-8092-293b19a8392c)
+
 
 ***
