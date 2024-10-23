@@ -26,8 +26,9 @@
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
 > Add your answer here!
 > - Completion Badge
+> ![image](https://github.com/user-attachments/assets/3977e22e-8e25-46fc-b3a3-4d6e70611b6e)
 > - Completion Screenshot	
-
+> ![image](https://github.com/user-attachments/assets/6e6cf1cd-d4b5-4431-a520-ff63b886db80)
 ***
 
 #### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
@@ -47,9 +48,9 @@
 #### #4 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
 - For example:
 - Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
+  - Logo: ![image](https://github.com/user-attachments/assets/17ad25f7-f31b-4322-8140-50c15329a30f)
+  - Details: Spotify is a widely used streaming platform that offers an extensive library of music, podcasts, and exclusive audio content to listeners around the world.
 > Add your answer here!
 
 ***
