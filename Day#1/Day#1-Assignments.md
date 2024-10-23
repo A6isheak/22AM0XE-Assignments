@@ -61,7 +61,8 @@
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/285cb702-7a93-47f2-bb60-de579fa2ce6d)
+
 
 ***
 
