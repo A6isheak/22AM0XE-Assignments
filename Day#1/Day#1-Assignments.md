@@ -32,8 +32,9 @@
 ***
 
 #### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
-> (https://github.com/user-attachments/assets/c53360c3-868e-42bf-bf57-443bef779c0b)
-> (https://github.com/user-attachments/assets/4cd1d3d4-f515-429c-a5bd-047071d14dcf)
+> ![7376331SE501](https://github.com/user-attachments/assets/8c2bebe2-508f-4a98-b8de-c13ff949deb8)
+> ![7376231SE501](https://github.com/user-attachments/assets/34c87818-3893-4461-aa7a-b61ac9c2538c)
+
 
 
 
