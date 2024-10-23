@@ -64,7 +64,7 @@
 ***
 
 #### #7 Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/7bd1d952-609e-424b-b082-ace6bb9b630e)
 
 ***
 
