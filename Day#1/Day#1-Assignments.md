@@ -67,6 +67,6 @@
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> Add your answer here!
-
+> ![WhatsApp Image 2024-10-23 at 14 10 05_0c2d91c2](https://github.com/user-attachments/assets/c7d3afe9-b1d5-4163-9c22-66df477d1ce2)
+![WhatsApp Image 2024-10-23 at 14 10 05_bebd2ded](https://github.com/user-attachments/assets/c90526ed-9a83-4f30-bfd4-664254de4520)
 ***
