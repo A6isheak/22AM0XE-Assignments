@@ -42,6 +42,7 @@
 
 #### #3 Provide a basic example of using Google Colab by following the given steps
 > ![image](https://github.com/user-attachments/assets/dc3ba7ff-3829-4084-a5cb-66b6ff7fb7ed)
+> ![image](https://github.com/user-attachments/assets/2c6968df-05e1-4607-82bd-9bdb97683ab9)
 
 
 ***
